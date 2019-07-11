@@ -195,11 +195,11 @@
     "package": "vsce package"
   },
   "devDependencies": {
-    "@types/node": "^6.0.88",
-    "typescript": "^2.4.2",
+    "@types/node": "^12.6.2",
+    "typescript": "^3.5.3",
     "vsce": "^1.44.0"
   },
   "dependencies": {
-    "async": "^2.5.0"
+    "async": "^3.1.0"
   }
 }
