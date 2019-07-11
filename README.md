@@ -1,5 +1,8 @@
 # vscode-standardjs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/standard/vscode-standardjs.svg)](https://greenkeeper.io/)
+
+
 VSCode extension to integrate [JavaScript Standard Style](https://github.com/feross/standard) into VSCode.
 
 We support [JavaScript Semi-Standard Style](https://github.com/Flet/semistandard) too, if you prefer keeping the semicolon.
